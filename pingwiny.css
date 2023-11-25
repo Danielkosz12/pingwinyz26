@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+}
+
+
+img {
+    display: inline-block;
+    position: relative;
+    left: 300px;
+}
+
+.klasa {
+    position: fixed;
+    top: 340px;
+    left: 0px;
+}
